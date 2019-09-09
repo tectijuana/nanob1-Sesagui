@@ -25,4 +25,4 @@ https://likegeeks.com/main-linux-commands-easy-guide/
 Tips de Linux para ser productivos
 https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
 
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDW2cU0M2TbcXkuONRoQhKI-yKu-Eiuu36xKSkoBJolpqsdL4e)
