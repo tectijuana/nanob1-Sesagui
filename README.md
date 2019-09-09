@@ -2,7 +2,7 @@
 # Trabajo 1
 Aguirre Vargas Moises Ramses
 
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiVn8Hn6cTkAhVI7J4KHXFRCMYQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.ngenespanol.com%2Fel-espacio%2Fimagen-muestra-colores-ocultos-luna%2F&psig=AOvVaw0U4AaklXmrn-2j1EQrur5l&ust=1568155814199261)
+![](https://dam.ngenespanol.com/wp-content/uploads/2019/03/luna-colores-nuevo.png)
 
 # Definiciones
 
